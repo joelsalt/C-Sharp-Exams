@@ -1,0 +1,5 @@
+C:\Users\Joel\Documents\Visual Studio 2017\Projects\Assignments\Exam 4\Exam 4\bin\Debug\Exam 4.exe.config
+C:\Users\Joel\Documents\Visual Studio 2017\Projects\Assignments\Exam 4\Exam 4\bin\Debug\Exam 4.exe
+C:\Users\Joel\Documents\Visual Studio 2017\Projects\Assignments\Exam 4\Exam 4\bin\Debug\Exam 4.pdb
+C:\Users\Joel\Documents\Visual Studio 2017\Projects\Assignments\Exam 4\Exam 4\obj\Debug\Exam 4.exe
+C:\Users\Joel\Documents\Visual Studio 2017\Projects\Assignments\Exam 4\Exam 4\obj\Debug\Exam 4.pdb

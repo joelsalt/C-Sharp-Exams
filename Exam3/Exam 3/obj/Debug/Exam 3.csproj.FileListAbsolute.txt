@@ -1,0 +1,6 @@
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Assignments\Exam 3\Exam 3\bin\Debug\Exam 3.exe.config
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Assignments\Exam 3\Exam 3\bin\Debug\Exam 3.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Assignments\Exam 3\Exam 3\bin\Debug\Exam 3.pdb
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Assignments\Exam 3\Exam 3\obj\Debug\Exam 3.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Assignments\Exam 3\Exam 3\obj\Debug\Exam 3.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Assignments\Exam 3\Exam 3\obj\Debug\Exam 3.pdb

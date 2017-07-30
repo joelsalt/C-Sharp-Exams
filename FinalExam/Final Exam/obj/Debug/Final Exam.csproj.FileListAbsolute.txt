@@ -1,0 +1,6 @@
+C:\Users\Joel\Documents\Visual Studio 2017\Projects\Assignments\Final Exam\Final Exam\bin\Debug\Final Exam.exe.config
+C:\Users\Joel\Documents\Visual Studio 2017\Projects\Assignments\Final Exam\Final Exam\bin\Debug\Final Exam.exe
+C:\Users\Joel\Documents\Visual Studio 2017\Projects\Assignments\Final Exam\Final Exam\bin\Debug\Final Exam.pdb
+C:\Users\Joel\Documents\Visual Studio 2017\Projects\Assignments\Final Exam\Final Exam\obj\Debug\Final Exam.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\Visual Studio 2017\Projects\Assignments\Final Exam\Final Exam\obj\Debug\Final Exam.exe
+C:\Users\Joel\Documents\Visual Studio 2017\Projects\Assignments\Final Exam\Final Exam\obj\Debug\Final Exam.pdb
